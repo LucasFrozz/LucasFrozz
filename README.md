@@ -8,11 +8,12 @@
  
 
 ### Tecnologias que estou aprendendo:
-![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/1be7d6a3-660d-4b24-aa1a-690e790db457) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/a3d3f463-6dcc-481c-b402-51f40caa1cf6) 
+![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/1be7d6a3-660d-4b24-aa1a-690e790db457) ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/a3d3f463-6dcc-481c-b402-51f40caa1cf6) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 ## Encontre-me:
-![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/08001cad-80e6-4603-b1df-23c75c2f4053)  ![image](https://github.com/MarquinCss/Aula-de-ReadMe-md/assets/115740827/210889f6-785a-4788-bd99-6506e0d2dc71) 
+<a href="https://www.instagram.com/iamfroz__/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/lucas-rosa-farias-308409248/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <br> 
 
